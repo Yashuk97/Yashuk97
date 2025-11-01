@@ -52,17 +52,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasaswinikalavakuri&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasaswinikalavakuri&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yasaswinikalavakuri&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasaswinikalavakuri&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-### 🏅 GitHub Trophies
+### 🌟 Most Used Languages
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasaswinikalavakuri&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasaswinikalavakuri&layout=compact&theme=tokyonight" width="60%" />
 </p>
 
 ---
