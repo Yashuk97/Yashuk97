@@ -1,48 +1,54 @@
 # 👋 Hi, I'm Yasaswini Kalavakuri  
 
-🎓 **Computer Science Student | Aspiring Software Engineer | AI/ML Enthusiast**  
-💻 Passionate about building scalable software, intelligent systems, and clean architectures.
+🎓 **Final-Year BSc Computer Science Student | Aspiring Software Engineer | AI/ML Enthusiast**  
+💻 Passionate about developing intelligent systems, scalable cloud solutions, and meaningful software.
 
 ---
 
 ### 🧠 About Me
-- 🔭 Currently working on: **Data Augmentation — Compression & Diversity Study (Dissertation)**
-- 💡 Interests: **Machine Learning, Computer Vision, Cloud Development, and Distributed Systems**
-- 🌱 Learning: **Advanced ML, Cloud Architecture (Azure, AWS), and RAG Systems**
-- 💬 Ask me about: **Python, Java, Haskell, React, or Data Engineering pipelines**
-- 🚀 Goal: To become a **Software Engineer / ML Engineer** creating impactful AI solutions.
+- 🔭 Currently working on: **Dissertation – Data Augmentation: An Extensive Study of Compression and Diversity**
+- 🎓 Studying at the **University of Southampton (UK)**
+- 🧩 Current Modules:
+  - **Foundations of Machine Learning**
+  - **Web Architecture and Technologies**
+  - **Cloud Application Development**
+  - **Individual Dissertation Project**
+- 🌱 Learning: **Deep Learning, Cloud Computing (Azure & AWS), and Web Systems Architecture**
+- 💬 Ask me about: **Python, Java, Cloud Apps, or Machine Learning Pipelines**
+- 🚀 Goal: To build scalable, AI-powered systems that solve real-world problems
 - 📫 Reach me: [yasaswinikalavakuri@gmail.com](mailto:yasaswinikalavakuri@gmail.com)
 - 🌍 Based in: Southampton, UK  
 
 ---
 
 ### ⚙️ Tech Stack
-**Languages:** Python, Java, JavaScript, Haskell, SQL, C  
+**Languages:** Python, Java, Haskell, JavaScript, SQL, C  
 **Frontend:** React, TailwindCSS, HTML, CSS  
 **Backend:** Node.js, Express, Flask, JavaFX  
-**Databases:** MongoDB, CosmosDB, PostgreSQL  
-**Cloud & DevOps:** Azure, AWS, Docker, CI/CD  
-**ML/AI:** PyTorch, Scikit-learn, Transformers, Weaviate  
-**Other:** Git, REST APIs, Agile, MVC Design  
+**Databases:** MongoDB, PostgreSQL, CosmosDB  
+**Cloud & DevOps:** Azure Functions, AWS, Docker, CI/CD  
+**ML/AI:** PyTorch, Scikit-learn, Transformers, RAG Pipelines  
+**Tools & Concepts:** Git, REST APIs, MVC, Agile Development  
 
 ---
 
 ### 🧩 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🧠 [Data Augmentation Study](https://github.com/YOUR_REPO) | Investigating model compression and diversity under augmentation strategies. | PyTorch, ViT, MixUp |
-| ✈️ [Runway Redeclaration Tool](https://github.com/YOUR_REPO) | JavaFX app to automate runway safety calculations. | Java, JavaFX, MVC |
-| 🔗 [SkillSwap](https://github.com/YOUR_REPO) | Full-stack app enabling peer-to-peer skill exchange. | React, Node.js, Tailwind |
-| ☁️ [Quiplash Cloud App](https://github.com/YOUR_REPO) | Serverless backend using Azure Functions & CosmosDB. | Python, Azure |
+| 🧠 [Data Augmentation Study](https://github.com/Yashuk97/Data-Augmentation-Study) | Dissertation exploring how data augmentation impacts compression and diversity in deep learning. | PyTorch, Vision Transformers |
+| ✈️ [Runway Redeclaration Tool](https://github.com/Yashuk97/Runway-redeclaration-tool) | JavaFX tool to automate runway safety calculations following CAA guidelines. | Java, JavaFX, MVC |
+| 🎮 [Tetrecs Game Project](https://github.com/Yashuk97/TETRECS-project) | A modern take on Tetris with advanced scoring and UI animations. | Java, JavaFX |
+| 🌐 [Maanasa Website](https://github.com/Yashuk97/Maanasa-Website) | Responsive business website for a construction company, showcasing services and portfolio. | HTML, CSS, JavaScript |
+| ⚙️ [PLC Coursework Language](https://github.com/Yashuk97/PLC_COMP2212) | Designed and implemented a domain-specific language interpreter in Haskell. | Haskell, Alex, Happy |
 
 ---
 
-### 🏆 Achievements
-- 🎓 **2nd Year Computer Science Student** – University of Southampton  
-- 🧩 **Built Distributed File System** for COMP2207 Coursework  
-- 🤖 **Completed RAG-based AI System** (Weaviate, LLM Integration)  
-- 🌐 **Launched SkillSwap app** with full deployment on Vercel  
-- 🥇 **Hackathon Finalist** – Innovation Challenge (2024)  
+### 🏆 Achievements & Certifications
+- 🥇 **Best Project Recognition** among coursework projects (Runway Redeclaration Tool)
+- 🎓 **RAG Certificate – Retrieval-Augmented Generation Course (Coursera)**
+- 💡 **AI & ML Hackathon Participant** – Received certificate for innovative solution design
+- 🧩 Participated in **2 Design Workshops** focused on consentful and creative app design
+- 💼 **Internship Experience** – Gained hands-on exposure to real-world software development and teamwork
 
 ---
 
@@ -54,8 +60,15 @@
 
 ---
 
+### 🏅 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yasaswinikalavakuri&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
 ### 💬 Let’s Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/yasaswinikalavakuri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yasaswini-kalavakuri-006439374//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yasaswinikalavakuri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
