@@ -52,21 +52,6 @@
 
 ---
 
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yasaswinikalavakuri&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasaswinikalavakuri&theme=tokyonight" width="48%" />
-</p>
-
----
-
-### 🌟 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yasaswinikalavakuri&layout=compact&theme=tokyonight" width="60%" />
-</p>
-
----
-
 ### 💬 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/yasaswini-kalavakuri-006439374//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
