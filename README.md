@@ -9,9 +9,8 @@
 - 🔭 Currently working on: **Dissertation – Data Augmentation: An Extensive Study of Compression and Diversity**
 - 🎓 Studying at the **University of Southampton (UK)**
 - 🧩 Current Modules:
-  - **Foundations of Machine Learning**
-  - **Web Architecture and Technologies**
-  - **Cloud Application Development**
+  - **Social Computing Techniques**
+  - **Advanced Databases**
   - **Individual Dissertation Project**
 - 🌱 Learning: **Deep Learning, Cloud Computing (Azure & AWS), and Web Systems Architecture**
 - 💬 Ask me about: **Python, Java, Cloud Apps, or Machine Learning Pipelines**
