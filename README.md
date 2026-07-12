@@ -1,11 +1,11 @@
 ### 👋 Hi, I'm Yasaswini Kalavakuri
 
-Final-year BSc Computer Science student at the University of Southampton, interested in AI/ML, cloud systems, and building software that's actually useful.
+BSc Computer Science graduate from the University of Southampton, interested in Software Engineering, Data Analysis, Data Engineering, and Business Analysis.
 
-- 🎓 Currently working on my dissertation: *Data Augmentation — An Extensive Study of Compression and Diversity*
-- 🧩 This year's modules: Social Computing Techniques, Advanced Databases, Individual Dissertation Project
-- 🌱 Learning: Deep Learning, Cloud Computing (Azure & AWS), Web Systems Architecture
-- 💬 Ask me about: Python, Java, ML pipelines, or cloud-hosted apps
+- 🎓 Dissertation: *Data Augmentation — An Extensive Study of Compression and Diversity*
+- 🔍 Open to opportunities in Software Engineering, Data Analysis, Data Engineering, and Business Analysis
+- 🌱 Learning: Cloud Computing (Azure & AWS), Web Systems Architecture, SQL/Data pipelines
+- 💬 Ask me about: Python, Java, SQL, or cloud-hosted apps
 - 📫 Reach me: yasaswinikalavakuri@gmail.com
 
 ---
@@ -17,7 +17,7 @@ Final-year BSc Computer Science student at the University of Southampton, intere
 **Backend:** Node.js · Express · Flask · JavaFX
 **Databases:** PostgreSQL · MongoDB · CosmosDB
 **Cloud & DevOps:** Azure Functions · AWS · Docker · CI/CD
-**ML/AI:** PyTorch · Scikit-learn · Transformers · RAG pipelines
+**Data:** SQL · SQLite · Pandas · Excel · Data Modelling & Normalisation
 
 ---
 
@@ -36,9 +36,8 @@ Final-year BSc Computer Science student at the University of Southampton, intere
 ### 🏆 Achievements & Certifications
 
 - 🥇 Best Project recognition — Runway Redeclaration Tool
-- 🎓 RAG Certificate — Retrieval-Augmented Generation (Coursera)
-- 💡 AI & ML Hackathon participant
 - 💼 Internship experience in real-world software development
+- 🧩 Participated in design workshops focused on consentful and creative app design
 
 ---
 
